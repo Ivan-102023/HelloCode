@@ -1,0 +1,14 @@
+C:\Users\ИС\Desktop\Examples\Example001_HelloCansole\bin\Debug\net7.0\Example001_HelloCansole.exe
+C:\Users\ИС\Desktop\Examples\Example001_HelloCansole\bin\Debug\net7.0\Example001_HelloCansole.deps.json
+C:\Users\ИС\Desktop\Examples\Example001_HelloCansole\bin\Debug\net7.0\Example001_HelloCansole.runtimeconfig.json
+C:\Users\ИС\Desktop\Examples\Example001_HelloCansole\bin\Debug\net7.0\Example001_HelloCansole.dll
+C:\Users\ИС\Desktop\Examples\Example001_HelloCansole\bin\Debug\net7.0\Example001_HelloCansole.pdb
+C:\Users\ИС\Desktop\Examples\Example001_HelloCansole\obj\Debug\net7.0\Example001_HelloCansole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ИС\Desktop\Examples\Example001_HelloCansole\obj\Debug\net7.0\Example001_HelloCansole.AssemblyInfoInputs.cache
+C:\Users\ИС\Desktop\Examples\Example001_HelloCansole\obj\Debug\net7.0\Example001_HelloCansole.AssemblyInfo.cs
+C:\Users\ИС\Desktop\Examples\Example001_HelloCansole\obj\Debug\net7.0\Example001_HelloCansole.csproj.CoreCompileInputs.cache
+C:\Users\ИС\Desktop\Examples\Example001_HelloCansole\obj\Debug\net7.0\Example001_HelloCansole.dll
+C:\Users\ИС\Desktop\Examples\Example001_HelloCansole\obj\Debug\net7.0\refint\Example001_HelloCansole.dll
+C:\Users\ИС\Desktop\Examples\Example001_HelloCansole\obj\Debug\net7.0\Example001_HelloCansole.pdb
+C:\Users\ИС\Desktop\Examples\Example001_HelloCansole\obj\Debug\net7.0\Example001_HelloCansole.genruntimeconfig.cache
+C:\Users\ИС\Desktop\Examples\Example001_HelloCansole\obj\Debug\net7.0\ref\Example001_HelloCansole.dll
